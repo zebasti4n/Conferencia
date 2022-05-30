@@ -1,0 +1,156 @@
+body{
+position: relative;
+width: 1440px;
+height: 1024px;
+background: #F9F7F3;
+}
+.c{
+    position: absolute;
+width: 2450px;
+height: 1600px;
+left: 2005px;
+top: 250px;
+border-color: #000000;
+border-style: ridge;
+background: #FFEFF4;
+}
+.img{
+position: absolute;
+width: 2000px;
+height: 2000px;
+left: 50px;
+top: 270px;
+}
+.volver{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 40px;
+    top: 40px;
+}
+.titulo{
+position: absolute;
+width: 3000px;
+height: 200px;
+left: 2070px;
+top: 200px;
+font-family: 'Mogra';
+font-style: normal;
+font-weight: bold;
+font-size: 200px;
+line-height: 96px;
+/* identical to box height */
+color: #000000;
+}
+h2{
+    position: absolute;
+    width: 3000px;
+    height: 142px;
+    left: 2035px;
+    top: 500px;
+    
+    font-family: 'Monda';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 70px;
+    line-height: 57px;
+    
+    color: #000000;
+}
+
+.c1{
+    
+position: absolute;
+width: 1000px;
+height: 1000px;
+left: 2700px;
+top: 800px;
+
+background: #FCDCE5;
+border: 10px solid #000000;
+box-sizing: border-box;
+}
+
+.c2{
+    position: absolute;
+    width: 600px;
+    height: 150px;
+    left: 2900px;
+    top: 1000px;
+    background: #ACABE5;
+    border: 6px solid #000000;
+    box-sizing: border-box;
+}
+
+.c3{
+    position: absolute;
+    width: 600px;
+    height: 150px;
+    left: 2900px;
+    top: 1600px;
+    background: #ACABE5;
+    border: 7px solid #000000;
+    box-sizing: border-box;
+}
+
+.img2{
+    position: absolute;
+    width: 450px;
+    height: 400px;
+    left: 2990px;
+    top: 1200px;
+}
+.img3{   
+position: absolute;
+width: 250px;
+height: 250px;
+left: 334px;
+top: 2150px;
+}
+.logo{
+    position: absolute;
+width: 296px;
+height: 151px;
+left: 580px;
+top: 2070px;
+
+font-family: 'Hind Guntur';
+font-style:bold;
+font-weight: 400;
+font-size: 150px;
+line-height: 151px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+.b1{
+position: absolute;
+width: 219px;
+height: 65px;
+left: 2990px;
+top: 965px;
+
+font-family: 'Monda';
+font-style: normal;
+font-weight: 400;
+font-size: 80px;
+line-height: 65px;
+
+color: #000000;
+}
+
+.b2{
+ position: absolute;
+width: 219px;
+height: 65px;
+left: 2930px;
+top: 1550px;
+font-family: 'Monda';
+font-style: normal;
+font-weight: 400;
+font-size: 80px;
+line-height: 65px;
+color: #000000;
+}

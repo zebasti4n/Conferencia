@@ -1,0 +1,101 @@
+body{
+position: relative;
+width: 1440px;
+height: 1024px;
+    
+background: #FDFFFD;
+}
+header{
+position: absolute;
+width: 5500px;
+height: 400px;
+left: 0px;
+top: 0px;
+
+background: #4B6FC7;
+border: 10px solid #000000;
+box-sizing: border-box;
+}
+
+.volver{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 40px;
+    top: 40px;
+}
+.title{
+    position: absolute;
+    width: 4000px;
+    height: 200px;
+    left: 1000px;
+    top: 50px;
+    font-family:fallinlove;
+    font-style:oblique;
+    font-weight:bold;
+    font-size: 150px;
+    color: #000000;
+    }
+.img2{
+    position: absolute;
+    left: 600px;
+    width: 400px;
+    height: 400px;
+    top:0px;
+}
+
+.img{
+position: absolute;
+width: 5500px;
+height: 1700px;
+left: 0px;
+top: 470px;
+}
+
+.c2{
+position: absolute;
+width: 5500px;
+height: 250px;
+left: 0px;
+top: 2150px;
+background: #FCECED;
+border: 10px solid #000000;
+box-sizing: border-box;
+}
+.sub{
+    position: absolute;
+width: 5500px;
+height: 250px;
+left: 2300px;
+top: 2150px;
+font-family: 'Monda';
+font-style: normal;
+font-weight: 400;
+font-size: 150px;
+line-height: 65px;
+color: #000000;
+}
+.title2{
+    position: absolute;
+    width: 1000px;
+    height: 200px;
+    left: 2200px;
+    top: 75px;
+    font-family:Arial;
+    font-style:oblique;
+    font-weight:bold;
+    font-size: 100px;
+    color: #FDFFFD;
+}
+.title3{
+    position: absolute;
+    width: 1000px;
+    height: 150px;
+    left: 3100px;
+    top: 75px;
+    font-family:Arial;
+    font-style:oblique;
+    font-weight:bold;
+    font-size: 100px;
+    color: #000000;
+}
